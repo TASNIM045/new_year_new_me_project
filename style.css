@@ -1,0 +1,22 @@
+/* shared style */
+body {
+    font-family: "Work Sans", serif;
+    font-style: normal;
+}
+
+
+/* header part */
+.header {
+    background-image: url('images/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+
+.header-title {
+    padding: 220px 230px 0px 850px;
+    text-align: right;
+}
+.header-description {
+    padding: 0px 230px 220px 850px;
+    text-align: right;
+}
