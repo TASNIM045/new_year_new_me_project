@@ -21,8 +21,13 @@ header>.header-title {
 header>.header-description {
     font-size: 20px;
     padding-left: 950px;
+    color: #444343;
 }
 
 header>.header-btn {
     border-radius: 5px;
+}
+
+main>.content {
+    display: flex;
 }
