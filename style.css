@@ -30,4 +30,33 @@ header>.header-btn {
 
 main>.content {
     display: flex;
+    padding-left: 300px;
+}
+.content>.content-description>.content-title {
+    font-size: 40px;
+}
+.content>.content-description>.content-info {
+    font-size: 20px;
+}
+.content>.content-description>.content-info,.content-list {
+    color: #444343;
+}
+.content>.content-description {
+    padding-top: 250px;
+    padding-right: 500px;
+}
+.content-img {
+    padding-right: 25px;
+}
+.my-plan>.plan-title {
+    padding-top: 35px;
+    padding-left: 800px;
+}
+.my-plan>.plan-description {
+    display: flex;
+    padding-left: 400px;
+    padding-bottom: 35px;
+}
+.my-plan>.plan-description>.plans {
+    padding-left: 100px;
 }
