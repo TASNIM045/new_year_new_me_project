@@ -50,7 +50,7 @@ main>.content {
 }
 .my-plan>.plan-title {
     padding-top: 35px;
-    padding-left: 800px;
+    padding-left: 850px;
 }
 .my-plan>.plan-description {
     display: flex;
@@ -58,5 +58,25 @@ main>.content {
     padding-bottom: 35px;
 }
 .my-plan>.plan-description>.plans {
-    padding-left: 100px;
+    padding-left: 90px;
+    font-size: 20px;
+    text-align: center;
+}
+.contact {
+    background-image: url(images/gradient1.png);
+    background-repeat: no-repeat;
+    margin-left: 350px;
+    height: 400px;
+}
+.contact>.contact-title {
+    padding-left: 150px;
+    padding-top: 70px;
+    padding-right: 900px;
+    font-size: 40px;
+    color: white;
+}
+.contact>.contact-btn {
+    padding-left: 150px;
+    margin-top: 0;
+    padding-top: 0;
 }
